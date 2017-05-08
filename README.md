@@ -1,6 +1,5 @@
-#(VTU-10CSL68)
 
-## Unix System Programming & Complier Design Lab
+# Unix System Programming & Complier Design Lab
  
 ### Index
 
