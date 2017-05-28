@@ -8,7 +8,7 @@
  1. [POSIX limits](https://raw.githubusercontent.com/Mahendra114027/10CSL68/master/Prog1.c)    
  2. [Posix defined Configurations using feature test Macros](https://raw.githubusercontent.com/Mahendra114027/10CSL68/master/Prog2.c)    
  3. [File Locking and Unlocking](https://raw.githubusercontent.com/Mahendra114027/10CSL68/master/Prog3.c)
- 4. [Interprocess Communication](https://raw.githubusercontent.com/Mahendra114027/10CSL68/master/Prog4.cpp)
+ 4. [Interprocess Communication](https://raw.githubusercontent.com/Mahendra114027/10CSL68/master/Prog4.c)
  5. a. [Enviroment list](https://raw.githubusercontent.com/Mahendra114027/10CSL68/master/Prog5a.c)    
     b. [Emulate ln command](https://raw.githubusercontent.com/Mahendra114027/10CSL68/master/Prog5b.c)
  6. [Race Condition](https://raw.githubusercontent.com/Mahendra114027/10CSL68/master/Prog6.c)
