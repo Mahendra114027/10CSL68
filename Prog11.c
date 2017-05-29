@@ -44,7 +44,7 @@ int main()
                 gen(tok[1],tok[3],tok[5],else_flag);
 
         else 
-                gen(tok[1], " ", tok[3], else_flag);
+                gen(tok[1], tok[3], " ",  else_flag);
  
        return 0;
 }
