@@ -22,7 +22,7 @@ int main(int argc,char *argv[])
 		fd=open(argv[1], O_RDONLY);
 		printf("Content of FIFO files are :\n");
 		while(read(fd,buff,sizeof(buff))>0)
-			printf(buff);
+			printf("%s",buff);
 		printf("\n");	
 	}
 	else
