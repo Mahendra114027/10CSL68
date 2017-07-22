@@ -7,7 +7,7 @@
 int main(int argc,char *argv[])
 {
         int fd;
-        char buffer[256];
+        char buffer[256]={""};
         struct flock filelock;
 	fd=open(argv[1],O_RDWR);
 
